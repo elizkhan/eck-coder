@@ -1,15 +1,15 @@
-## Test 123
+## Quick Setup for Google Big Query for Personal Use for Windows OS
 
-You can use the [editor on GitHub](https://github.com/elizkhan/eck-coder/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Install Python Library
+Open Command Prompt and run the following script to install the Google BigQuery python library.
+```pip install --upgrade google-cloud-bigquery```
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### **Sign Up for Free Trial**
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Google currently offers credit for the first 12 months to use some of their cloud products and services for free. Google will not charge your account, unless you manually sign up for the non-trial product versions.
 
-```markdown
-Syntax highlighted code block
+### **Create Service Account Key**
 
 # Header 1
 ## Header 2
